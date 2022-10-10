@@ -1,2 +1,2 @@
-# cetak-sertifikat
-Fitur Cetak Sertifikat menggunakan PHP
+# Cetak Sertifikat menggunakan PHP
+Fitur Cetak Sertifikat sederhana
